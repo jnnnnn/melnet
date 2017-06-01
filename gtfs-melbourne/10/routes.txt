@@ -1,0 +1,8 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type
+"10-GSR-mjp-1","","Overland","Melbourne - Adelaide","2"
+"10-GSR-A-mjp-1","","Overland","Melbourne","2"
+"10-GSR-B-mjp-1","","Overland","Adelaide","2"
+"10-GSR-C-mjp-1","","Overland","Melbourne - Adelaide","2"
+"10-GSR-D-mjp-1","","Overland","Melbourne - Adelaide","2"
+"10-GSR-E-mjp-1","","Overland","Melbourne - Adelaide","2"
+"10-XP2-mjp-1","","XPT","Melbourne - Sydney Via Wodonga","2"
